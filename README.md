@@ -15,6 +15,5 @@ I’m a **Laravel developer** and **entrepreneur** passionate about building pra
 
 📫 **Get in touch:**  
 - Email: mikiyasshiferaw99@gmail.com
-- LinkedIn: linkedin.com/in/mikiyas-shiferaw-1997ba352
-- X (twitter): @mikiyas___
-
+- LinkedIn: [Mikiyas Shiferaw](https://linkedin.com/in/mikiyas-shiferaw-1997ba352)
+- X (Twitter): [@mikiyas___](https://twitter.com/mikiyas___)
