@@ -1,6 +1,6 @@
 # Hi, I'm Mikiyas Shiferaw 👋
 
-I’m a **SaaS developer** and **entrepreneur** passionate about building practical software solutions. I specialize in developing scalable web applications, APIs, and e-commerce platforms that help businesses grow.  
+I’m a **FullStack  developer** passionate about building practical software solutions. I specialize in developing scalable web applications, APIs, and e-commerce platforms that help businesses grow.  
 
 💡 **What I do:**  
 - Build custom SaaS applications(mobile and web) and APIs  
